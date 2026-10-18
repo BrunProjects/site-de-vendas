@@ -1,6 +1,6 @@
 # site-de-vendas
 avaliação de programação web 2
-Link do site : 
+
 ## Configuração do banco
 
 A rota `/produtos` usa o banco PostgreSQL. Para rodar a aplicação localmente, crie um arquivo `.env` na raiz do projeto com uma das opções abaixo:
